@@ -8,7 +8,7 @@
 
 
 ## 2. How to use
-* Unzip ```EdgeDetection.zip``, and put model file: ``modelBsds.mat`` into ``.\EdgeDetection\models\forest``;
+* Unzip ``EdgeDetection.zip``, and put model file: ``modelBsds.mat`` into ``.\EdgeDetection\models\forest\``;
 * Set your paths in ``Demo.m``
 * Run ``Demo.m``
 
